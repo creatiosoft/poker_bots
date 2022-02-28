@@ -1,2 +1,4 @@
-# poker_bots
-this is a pokerbots
+## pokersd_bots_local
+Code for bots of PokerSd
+
+
